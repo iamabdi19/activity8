@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url("galaxyPhoto.jpeg");
+}
+
+table {
+    color: #e8e8e8;
+    text-align: center;
+    width: 60%;
+    margin: 50px auto;
+    margin-top: 100px;
+    font-family: 'Courier New', monospace;
+    font-size: 26px;
+    border-collapse: collapse;
+    background-color: #120033;
+    border: 1px dashed #ecebff;
+    border-spacing: 4px;
+    border-radius: 4px;
+    padding: 9px;
+    box-shadow: 0 0 15px 0px rgba(255, 255, 255, 0.1);
+}
+
+td, th {
+    border: 2px dotted #ecebff;
+    border-radius: 20px;
+    padding: 12px;
+    box-shadow: 0 0 5px 0px rgba(255, 255, 255, 0.1);
+}
